@@ -1,2 +1,2 @@
-# python_notlar
+# Beni Okumana gerek yok
 Python notlarimi burada paylasiyorum
