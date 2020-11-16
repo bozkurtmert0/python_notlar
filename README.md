@@ -10,4 +10,6 @@
 - [ ] Class(sinif) Kavrami
 
 
+*Kendim öğrenirken aldığım notlardan oluşuyor*
+
 
