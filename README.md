@@ -1,2 +1,12 @@
-# Beni Okumana gerek yok
-Python notlarimi burada paylasiyorum
+
+
+### Eklemeyi dusunduklerim /Basladiklarim
+
+- [x] Matplotlib
+- [ ] Numpy
+- [ ] Pandas
+- [ ] Fonksiyonlar
+- [ ] Kullanisli Metodlar
+
+
+
