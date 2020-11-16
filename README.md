@@ -7,6 +7,7 @@
 - [ ] Pandas
 - [ ] Fonksiyonlar
 - [ ] Kullanisli Metodlar
+- [ ] Class(sinif) Kavrami
 
 
 
