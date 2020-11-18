@@ -3,6 +3,7 @@
 ### Eklemeyi dusunduklerim /Basladiklarim
 
 - [x] Matplotlib
+- [x] Tensorflow
 - [ ] Numpy
 - [ ] Pandas
 - [ ] Fonksiyonlar
